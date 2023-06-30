@@ -1,5 +1,5 @@
 ### Hi there 👋
-Seja bem vindo ao meu perfil dev!
+Seja bem vindo ao meu perfil de dev!
 
 Estou iniciando os trabalhos nessa rede, sinta-se livre pra comentar, compartilhar e testar meus projetos!
 
