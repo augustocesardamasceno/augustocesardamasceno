@@ -13,7 +13,7 @@ Estou iniciando os trabalhos nessa rede, sinta-se livre pra comentar, compartilh
 # Sobre mim:
 -> Atualmente estudando ADS na FIAP;
 
--> Estou em busca de um estágio/ trabalho para dar o start na minha carreira!
+-> Open to work
 
 -> Além da graduação, estou estudando SpringBoot e IA.
 
