@@ -17,7 +17,7 @@ Estou iniciando os trabalhos nessa rede, sinta-se livre pra comentar, compartilh
 
 -> Open to work
 
--> Além da graduação, estou estudando SpringBoot e IA.
+-> Além da graduação, estou estudando SpringBoot, Bancos de dados e IA.
 
 # Onde me encontrar:
 www.linkedin.com/in/augusto-damasceno
