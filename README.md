@@ -12,6 +12,8 @@ Estou iniciando os trabalhos nessa rede, sinta-se livre pra comentar, compartilh
 
 -> [fiap-cap-12](https://github.com/augustocesardamasceno/fiap-cap-12)
 
+-> [gestao-de-residuos](https://github.com/augustocesardamasceno/gestao-residuos)
+
 # Sobre mim:
 -> Atualmente estudando ADS na FIAP;
 
