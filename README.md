@@ -15,11 +15,11 @@ Estou iniciando os trabalhos nessa rede, sinta-se livre pra comentar, compartilh
 -> [gestao-de-residuos](https://github.com/augustocesardamasceno/gestao-residuos)
 
 # Sobre mim:
--> Atualmente estudando ADS na FIAP;
+-> Atualmente cursando pós em Arquitetura e Desenvolvimento Java na FIAP;
 
 -> Open to work
 
--> Além da graduação, estou estudando SpringBoot, Bancos de dados e IA.
+-> Além da pós, estou estudando Typescript e integrações entre sistemas.
 
 # Onde me encontrar:
 www.linkedin.com/in/augusto-damasceno
