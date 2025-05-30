@@ -1,6 +1,6 @@
 # Hi there, I am Augusto 👋
 
-Software Analysis and Development Graduate, FIAP | Software Developer at Smartiks
+Software Analysis and Development Graduate, FIAP | Software Developer at Smartiks | Doing a postgraduate degree in software architecture.
 
 ## About me:
 - I love solving problems and making people's lives easier through technology.
